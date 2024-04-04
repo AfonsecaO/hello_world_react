@@ -9,7 +9,7 @@ function App() {
     <>
       <h1>Hola, soy Alan Fonseca</h1>
       <img src={reactLogo} className="logo react" alt="React logo" />
-      <p>Para más información <a href="https://alanfonseca.com"> visitanos</a></p>
+      <p>Para más información <a href="https://alanfonseca.com" target='_blank'> visitanos</a></p>
     </>
   )
 }
